@@ -1,9 +1,151 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Terms of Use - WordSearch Winners</title></head>
-<body><p><a href="../">App legal information</a></p><h1>Terms of Use</h1><p><small>WordSearch Winners · Draft · Last updated September 19, 2026</small></p>
-<p>These draft terms govern use of WordSearch Winners, an open-source word-search game operated by Yohann Taieb. By using the app, you agree to use it lawfully and respectfully.</p>
-<h2>Use of the service</h2><p>You may play puzzles, challenges, achievements, and leaderboards. Accounts are optional. Keep credentials private and provide accurate information. Do not abuse, disrupt, reverse-engineer, or attempt unauthorized access to the app or its services.</p>
-<h2>Scores and content</h2><p>Scores, usernames, and leaderboard entries may be visible to other players. Do not submit unlawful, harmful, or confidential material. We may remove content or restrict access that violates these terms or threatens the service.</p>
-<h2>Open source and availability</h2><p>The software is open source under the license included with its source code. The service is provided on an “as available” basis and may change, be interrupted, or be discontinued. To the extent permitted by law, the operator is not liable for indirect or consequential loss arising from use of the service.</p>
-<h2>Privacy and changes</h2><p>Our <a href="privacy.html">Privacy Policy</a> explains data handling. We may update these terms; the date above shows the latest version. If you do not agree to an update, stop using the service.</p>
-<h2>Contact</h2><p>Questions can be raised at <a href="https://github.com/yohann305/wordsearch-international/issues">github.com/yohann305/wordsearch-international/issues</a>.</p></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Terms of Use draft for WordSearch Winners (WordSearch International), operated by Yohann Taieb.">
+  <title>Terms of Use (Draft) — WordSearch Winners</title>
+  <style>
+    :root {
+      --bg: #f6f4ef;
+      --card: #ffffff;
+      --ink: #1c2430;
+      --muted: #4d5a6a;
+      --line: #d9d3c7;
+      --accent: #1f5f8b;
+      --warn: #fff6e8;
+      --warn-line: #ead7b0;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.65;
+    }
+    header, main, footer { max-width: 46rem; margin: 0 auto; padding: 0 1.25rem; }
+    header { padding-top: 2.25rem; padding-bottom: 1rem; }
+    nav {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.9rem;
+      margin-bottom: 1.25rem;
+    }
+    nav a { color: var(--accent); }
+    h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 0.35rem; }
+    .meta { color: var(--muted); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.92rem; }
+    .draft-note {
+      background: var(--warn);
+      border: 1px solid var(--warn-line);
+      border-radius: 12px;
+      padding: 1rem 1.15rem;
+      margin: 1.5rem 0 0;
+    }
+    .draft-note p { margin: 0; }
+    main { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.5rem 1.4rem 2rem; margin-bottom: 2rem; }
+    h2 { font-size: 1.25rem; margin-top: 1.75rem; }
+    h2:first-child { margin-top: 0; }
+    p, li { font-size: 1.02rem; }
+    a { color: var(--accent); }
+    footer {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--muted);
+      font-size: 0.88rem;
+      padding-bottom: 2.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="../index.html">Legal home</a>
+      ·
+      <a href="privacy.html">Privacy Policy</a>
+    </nav>
+    <h1>Terms of Use</h1>
+    <p class="meta">WordSearch Winners (WordSearch International)<br>Operator: Yohann Taieb<br>Draft · Dated September 19, 2026</p>
+    <aside class="draft-note">
+      <p><strong>Draft.</strong> These Terms of Use are a working draft for the WordSearch Winners app listing and related GitHub Pages site. They are not legal advice and may be updated before or after the App is published.</p>
+    </aside>
+  </header>
+  <main>
+    <h2>1. Agreement</h2>
+    <p>These Terms of Use (“Terms”) govern your use of <strong>WordSearch Winners</strong>, also referred to as <strong>WordSearch International</strong> (the “App”), operated by <strong>Yohann Taieb</strong> (“we,” “us,” or “the operator”).</p>
+    <p>By downloading, installing, or using the App, you agree to these Terms and to our <a href="privacy.html">Privacy Policy</a>. If you do not agree, do not use the App.</p>
+
+    <h2>2. The App</h2>
+    <p>WordSearch Winners is an open-source word-search game. You may play locally without an account. Optional online features may include accounts, scores, leaderboards, challenges, achievements, and multiplayer, provided through a self-hosted PocketBase backend.</p>
+    <p>The App does not include advertisements. Availability of online features may depend on your device, network, and whether the backend is reachable.</p>
+    <p>Open-source code for the project, if published, is licensed separately under the license files in that source repository. These Terms cover your use of the distributed App and our operated online features. They do not replace any open-source license that applies to the code.</p>
+
+    <h2>3. Eligibility and accounts</h2>
+    <p>You may use basic local play without creating an account. If you create an account or use online features, you must be old enough to do so under the laws of your country, or you must have a parent or guardian’s consent where that is required.</p>
+    <p>You are responsible for:</p>
+    <ul>
+      <li>Providing accurate account information.</li>
+      <li>Keeping your password confidential.</li>
+      <li>Activity that occurs under your account.</li>
+    </ul>
+    <p>We may refuse, suspend, or close an account if we reasonably believe these Terms have been violated or if the service is being abused.</p>
+
+    <h2>4. License to use the App</h2>
+    <p>Subject to these Terms, we grant you a personal, limited, revocable, non-exclusive, non-transferable license to download and use the App on devices you own or control, for your own personal, non-commercial play.</p>
+    <p>You may not:</p>
+    <ul>
+      <li>Copy, modify, or redistribute the App except as allowed by an applicable open-source license or by law (including fair use / fair dealing).</li>
+      <li>Circumvent security or access-control features, or attempt unauthorized access to the App or its servers.</li>
+      <li>Reverse-engineer the App except as allowed by an applicable open-source license or by law.</li>
+      <li>Use the App to harm others, interfere with servers, or cheat on leaderboards, challenges, or multiplayer.</li>
+      <li>Misrepresent scores, identities, or match results.</li>
+      <li>Use automated means to scrape, overload, or disrupt the backend.</li>
+    </ul>
+    <p>If you obtained the App from the Apple App Store, Apple’s Licensed Application End User License Agreement may also apply. If there is a conflict with Apple’s standard EULA on a topic Apple requires, Apple’s required terms control for that topic.</p>
+
+    <h2>5. Online features, scores, and multiplayer</h2>
+    <p>Scores, leaderboards, challenges, achievements, and multiplayer are optional. We may change, throttle, or discontinue online features. Leaderboards and matches may be reset, moderated, or corrected if we believe results were obtained unfairly or in error.</p>
+    <p>Display names, scores, and gameplay information you submit to online features may be visible to other players as described in the Privacy Policy.</p>
+
+    <h2>6. User conduct</h2>
+    <p>You agree not to use the App to harass, threaten, or impersonate others, to post unlawful content, or to interfere with other players’ enjoyment of the game. We may remove content or restrict access as we reasonably consider necessary.</p>
+
+    <h2>7. Intellectual property</h2>
+    <p>The App’s name, branding, and the operator’s rights in the distributed App are reserved, except for rights granted to you under these Terms or under an applicable open-source license. You do not acquire ownership of the App by using it.</p>
+    <p>Feedback you send us (for example, via GitHub Issues) may be used to improve the App without obligation to you.</p>
+
+    <h2>8. Privacy</h2>
+    <p>Our collection and use of personal data is described in the <a href="privacy.html">Privacy Policy</a>. The App does not show ads, and we do not sell personal data.</p>
+
+    <h2>9. Third-party services</h2>
+    <p>If you contact us on GitHub or use other third-party sites, those services are governed by their own terms and privacy policies. App Store distribution is also subject to Apple’s terms between you and Apple.</p>
+
+    <h2>10. Disclaimer of warranties</h2>
+    <p>The App and online features are provided <strong>“as is”</strong> and <strong>“as available.”</strong> To the fullest extent permitted by law, we disclaim all warranties, express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.</p>
+    <p>We do not warrant that the App will be uninterrupted, error-free, or free of harmful components, or that scores or multiplayer results will always be accurate or available.</p>
+    <p>Some jurisdictions do not allow certain warranty disclaimers. In those places, the disclaimer applies only to the extent permitted.</p>
+
+    <h2>11. Limitation of liability</h2>
+    <p>To the fullest extent permitted by law, the operator will not be liable for any indirect, incidental, special, consequential, or punitive damages, or for lost data, lost scores, or lost goodwill, arising from your use of the App.</p>
+    <p>To the fullest extent permitted by law, our total liability for any claim arising out of the App is limited to the amount you paid to us for the App in the twelve (12) months before the claim, or USD $10 if you paid us nothing.</p>
+    <p>Nothing in these Terms limits liability that cannot be limited under applicable law (including liability for death or personal injury caused by negligence, or for fraud, where such a limit is not allowed).</p>
+
+    <h2>12. Termination</h2>
+    <p>You may stop using the App at any time by uninstalling it and, if you wish, requesting deletion of an optional account. We may suspend or stop providing all or part of the App, including online features, at any time.</p>
+    <p>Sections that by their nature should survive (including intellectual property, disclaimers, and limitation of liability) will survive termination.</p>
+
+    <h2>13. Changes</h2>
+    <p>We may update these Terms. The date at the top of this page will change when we do. If you continue to use the App after the updated Terms are posted, you are expected to review them. If you do not agree, stop using the App.</p>
+
+    <h2>14. General</h2>
+    <p>If a provision of these Terms is found unenforceable, the remaining provisions will still apply. These Terms are the entire agreement between you and us regarding the App, except for any open-source licenses that apply to the code and except for Apple’s required App Store terms where applicable.</p>
+    <p>These Terms are a draft and do not create any partnership or employment relationship.</p>
+
+    <h2>15. Contact</h2>
+    <p>Questions about these Terms:</p>
+    <p><strong>Yohann Taieb</strong><br>
+    GitHub Issues: <a href="https://github.com/yohann305/wordsearch-international/issues">https://github.com/yohann305/wordsearch-international/issues</a></p>
+  </main>
+  <footer>
+    <p>WordSearch Winners / WordSearch International · Terms of Use (draft) · Operated by Yohann Taieb</p>
+  </footer>
+</body>
+</html>
