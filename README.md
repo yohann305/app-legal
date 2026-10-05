@@ -6,6 +6,7 @@ Public legal pages (privacy, terms) for Yohann Taieb apps, hosted on GitHub Page
 
 Open-source word-search app (WordSearch International). Operator: Yohann Taieb.
 
+- [Product page](wordsearch-winners/index.html)
 - [Privacy Policy](wordsearch-winners/privacy.html)
 - [Terms of Use](wordsearch-winners/terms.html) (draft)
 
@@ -21,6 +22,7 @@ iOS chroma-key video app (Green Screen Live Video Record). Operator: Yohann Taie
 See [PUBLIC_URLS.md](PUBLIC_URLS.md):
 
 - https://yohann305.github.io/app-legal/
+- https://yohann305.github.io/app-legal/wordsearch-winners/
 - https://yohann305.github.io/app-legal/wordsearch-winners/privacy.html
 - https://yohann305.github.io/app-legal/wordsearch-winners/terms.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/privacy.html
