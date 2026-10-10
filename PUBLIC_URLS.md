@@ -8,6 +8,8 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/wordsearch-winners/terms.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/privacy.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/terms.html
+- https://yohann305.github.io/app-legal/bachata-ios/privacy.html
+- https://yohann305.github.io/app-legal/bachata-ios/terms.html
 
 ## Enabling Pages
 

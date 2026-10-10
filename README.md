@@ -17,6 +17,13 @@ iOS chroma-key video app (Green Screen Live Video Record). Operator: Yohann Taie
 - [Privacy Policy](greenscreen-ios/privacy.html) (draft)
 - [Terms of Use](greenscreen-ios/terms.html) (draft)
 
+## Bachata Dance App
+
+iOS bachata dance learning app with video lessons, events, and a community feed. Operator: Yohann Taieb.
+
+- [Privacy Policy](bachata-ios/privacy.html)
+- [Terms of Use](bachata-ios/terms.html)
+
 ## Live URLs
 
 See [PUBLIC_URLS.md](PUBLIC_URLS.md):
@@ -27,6 +34,8 @@ See [PUBLIC_URLS.md](PUBLIC_URLS.md):
 - https://yohann305.github.io/app-legal/wordsearch-winners/terms.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/privacy.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/terms.html
+- https://yohann305.github.io/app-legal/bachata-ios/privacy.html
+- https://yohann305.github.io/app-legal/bachata-ios/terms.html
 
 ## GitHub Pages
 
