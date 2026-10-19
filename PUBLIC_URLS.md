@@ -11,6 +11,7 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/bachata-ios/privacy.html
 - https://yohann305.github.io/app-legal/bachata-ios/terms.html
 - https://yohann305.github.io/app-legal/bachata-ios/instructor.html
+- https://yohann305.github.io/app-legal/bachata-ios/support.html
 
 ## Enabling Pages
 
