@@ -28,6 +28,7 @@ iOS bachata dance learning app with video lessons, events, and a community feed.
 
 iOS daily word-guess puzzle (App Store id 600633777). Operator: Yohann Taieb.
 
+- [App page](wordguess/index.html)
 - [Privacy Policy](wordguess/privacy.html)
 - [Terms of Use](wordguess/terms.html)
 - [Support](wordguess/support.html)
