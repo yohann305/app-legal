@@ -24,6 +24,14 @@ iOS bachata dance learning app with video lessons, events, and a community feed.
 - [Privacy Policy](bachata-ios/privacy.html)
 - [Terms of Use](bachata-ios/terms.html)
 
+## Word Guess Daily Brain Trainer
+
+iOS daily word-guess puzzle (App Store id 600633777). Operator: Yohann Taieb.
+
+- [Privacy Policy](wordguess/privacy.html)
+- [Terms of Use](wordguess/terms.html)
+- [Support](wordguess/support.html)
+
 ## Live URLs
 
 See [PUBLIC_URLS.md](PUBLIC_URLS.md):
@@ -36,6 +44,9 @@ See [PUBLIC_URLS.md](PUBLIC_URLS.md):
 - https://yohann305.github.io/app-legal/greenscreen-ios/terms.html
 - https://yohann305.github.io/app-legal/bachata-ios/privacy.html
 - https://yohann305.github.io/app-legal/bachata-ios/terms.html
+- https://yohann305.github.io/app-legal/wordguess/privacy.html
+- https://yohann305.github.io/app-legal/wordguess/terms.html
+- https://yohann305.github.io/app-legal/wordguess/support.html
 
 ## GitHub Pages
 

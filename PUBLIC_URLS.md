@@ -12,6 +12,9 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/bachata-ios/terms.html
 - https://yohann305.github.io/app-legal/bachata-ios/instructor.html
 - https://yohann305.github.io/app-legal/bachata-ios/support.html
+- https://yohann305.github.io/app-legal/wordguess/privacy.html
+- https://yohann305.github.io/app-legal/wordguess/terms.html
+- https://yohann305.github.io/app-legal/wordguess/support.html
 
 ## Enabling Pages
 
