@@ -33,6 +33,15 @@ iOS daily word-guess puzzle (App Store id 600633777). Operator: Yohann Taieb.
 - [Terms of Use](wordguess/terms.html)
 - [Support](wordguess/support.html)
 
+## Colorblind Test
+
+iOS color vision screening (App Store id 588145141, formerly "Colorblind Eye Exam Test"). Operator: Yohann Taieb.
+
+- [App page](colorblind/index.html)
+- [Privacy Policy](colorblind/privacy.html)
+- [Terms of Use](colorblind/terms.html)
+- [Support](colorblind/support.html)
+
 ## Live URLs
 
 See [PUBLIC_URLS.md](PUBLIC_URLS.md):

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Colorblind Test: a free color vision screening for iPhone and iPad with dot plates, a hue arrangement test, a ring test and a live color assistant.">
+  <meta name="apple-itunes-app" content="app-id=588145141">
+  <title>Colorblind Test – Color Vision Screening for iPhone &amp; iPad</title>
+  <style>
+    :root { --a:#2a9d8f; --b:#3b5bdb; --ink:#14212b; --muted:#566573; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:#f3f6f8; line-height:1.55; }
+    .hero { background:linear-gradient(160deg,var(--b),var(--a)); color:#fff; padding:3.5rem 1.25rem 4rem; text-align:center; }
+    .hero h1 { font-size:clamp(2rem,5vw,3.1rem); margin:.4rem 0; letter-spacing:-.02em; }
+    .hero p { font-size:1.2rem; max-width:38rem; margin:.5rem auto 1.6rem; opacity:.95; }
+    .btn { display:inline-block; background:#fff; color:var(--b); font-weight:700; padding:.85rem 1.5rem; border-radius:999px; text-decoration:none; box-shadow:0 8px 24px rgba(0,0,0,.18); }
+    .shots { display:flex; gap:1.25rem; justify-content:center; flex-wrap:wrap; margin:-2.5rem auto 0; padding:0 1rem; max-width:64rem; }
+    .shots img { width:min(30%,240px); min-width:180px; border-radius:22px; box-shadow:0 14px 40px rgba(20,40,90,.25); }
+    main { max-width:56rem; margin:2.5rem auto; padding:0 1.25rem; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:1rem; }
+    .card { background:#fff; border-radius:18px; padding:1.2rem 1.3rem; box-shadow:0 2px 10px rgba(20,40,90,.06); }
+    .card h3 { margin:.2rem 0 .3rem; font-size:1.1rem; }
+    .card p { margin:0; color:var(--muted); }
+    .emoji { font-size:1.8rem; }
+    .note { margin-top:1.5rem; font-size:.95rem; color:var(--muted); text-align:center; }
+    footer { text-align:center; color:var(--muted); font-size:.92rem; padding:2rem 1rem 3rem; }
+    footer a { color:var(--b); margin:0 .5rem; }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <img src="img/icon.jpg" alt="" width="88" height="88" style="border-radius:22px">
+    <h1>Colorblind Test</h1>
+    <p>Find out how you see color in about two minutes. Dot plates, a hue arrangement and a ring test, free with no ads.</p>
+    <a class="btn" href="https://apps.apple.com/app/id588145141">Download on the App Store</a>
+  </section>
+  <div class="shots">
+    <img src="img/1-quick.jpg" alt="Quick Screen dot plate">
+    <img src="img/2-result.jpg" alt="Result with type and severity">
+    <img src="img/3-assist.jpg" alt="Color Assist naming a color">
+  </div>
+  <main>
+    <div class="grid">
+      <div class="card"><div class="emoji">👁️</div><h3>Free Quick Screen</h3><p>14 plates. You always see your score and every plate you missed.</p></div>
+      <div class="card"><div class="emoji">🔬</div><h3>Full Exam</h3><p>38 plates that estimate red-green type (protan or deutan) and severity, plus blue-yellow checks.</p></div>
+      <div class="card"><div class="emoji">🎨</div><h3>Arrangement &amp; Ring tests</h3><p>Order color caps by hue, or find the gap in an adaptive ring.</p></div>
+      <div class="card"><div class="emoji">📷</div><h3>Color Assist</h3><p>Point the camera to hear color names, simulate color blindness, or boost hard-to-tell colors.</p></div>
+      <div class="card"><div class="emoji">📄</div><h3>Reports &amp; history</h3><p>PDF reports for your eye doctor, charts over time and family profiles.</p></div>
+      <div class="card"><div class="emoji">⭐</div><h3>Kids Mode &amp; Daily Challenge</h3><p>Shapes instead of numbers for kids, and a daily odd-one-out game with Game Center.</p></div>
+    </div>
+    <p class="note">Colorblind Test is a screening tool, not a medical diagnosis. Only an eye-care professional can diagnose a color vision deficiency.</p>
+  </main>
+  <footer>
+    <a href="support.html">Support</a>·<a href="privacy.html">Privacy Policy</a>·<a href="terms.html">Terms of Use</a>
+    <p>Colorblind Test · Operated by Yohann Taieb</p>
+  </footer>
+</body>
+</html>

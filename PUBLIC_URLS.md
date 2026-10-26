@@ -16,6 +16,10 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/wordguess/privacy.html
 - https://yohann305.github.io/app-legal/wordguess/terms.html
 - https://yohann305.github.io/app-legal/wordguess/support.html
+- https://yohann305.github.io/app-legal/colorblind/
+- https://yohann305.github.io/app-legal/colorblind/privacy.html
+- https://yohann305.github.io/app-legal/colorblind/terms.html
+- https://yohann305.github.io/app-legal/colorblind/support.html
 
 ## Enabling Pages
 
