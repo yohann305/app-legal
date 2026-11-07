@@ -1,0 +1,25 @@
+# Served at https://yohann305.github.io/app-legal/robots.txt
+# Host crawlers read https://yohann305.github.io/robots.txt. This file allows every listed crawler.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://yohann305.github.io/app-legal/sitemap.xml
