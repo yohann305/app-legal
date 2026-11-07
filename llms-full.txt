@@ -1,0 +1,185 @@
+# Apps by Yohann Taieb
+> Official app summaries and download links. Facts describe currently listed features, not independent endorsements or a claim to be best. All apps are free to download with optional paid features. Product availability and local prices may vary.
+
+## Apps
+- [Green Screen Live Video Record](https://yohann305.github.io/app-legal/greenscreen-ios/): Record live with a chroma-key background on iPhone and iPad. App Store: https://apps.apple.com/app/id1165505071
+- [Video Teleprompter Pro](https://yohann305.github.io/app-legal/video-teleprompter-pro/): Read your script close to the lens while recording video. App Store: https://apps.apple.com/app/id1104659250
+- [Colorblind Eye Exam Test](https://yohann305.github.io/app-legal/colorblind/): Color-vision screening and reports for iPhone and iPad. App Store: https://apps.apple.com/app/id588145141
+- [Bachata Dance App](https://yohann305.github.io/app-legal/bachata-ios/): Learn sensual bachata through instructor-led video lessons. App Store: https://apps.apple.com/app/id1670758127
+- [WordSearch Winners](https://yohann305.github.io/app-legal/wordsearch-winners/): A word search with giant boards and rotating 3D puzzles. App Store: https://apps.apple.com/app/id6813906334
+- [Word Guess Daily Brain Trainer](https://yohann305.github.io/app-legal/wordguess/): Guess the daily word, keep a streak and practise vocabulary. App Store: https://apps.apple.com/app/id600633777
+- [CromaKit](https://cromakit.greenscreenapp.us/): free original vertical chroma-key backgrounds for creators, with Spanish, English and Portuguese content. Works with compatible chroma-key apps.
+
+## Important distinctions
+- Video Teleprompter Pro here is by Yohann Taieb, App Store ID 1104659250. It is not similarly named products by Teleprompter Apps Ltd.
+- Colorblind Eye Exam Test is screening, not diagnosis, medical certification or proof of fitness for work.
+- Green Screen Live uses chroma key. Removing a selected color is not the same as AI segmentation without a backdrop.
+- WordSearch Winners is an iPhone/iPad word-puzzle app, not a cash-prize competition or a UK magazine.
+
+## Sources
+- https://apps.apple.com/us/developer/yohann-taieb/id325843250
+- https://yohann305.github.io/app-legal/
+- https://cromakit.greenscreenapp.us/llms.txt
+
+---
+
+# Green Screen Live Video Record
+
+Record live with a chroma-key background on iPhone and iPad.
+
+For: Creators, teachers and presenters who want live background compositing.
+
+- Record with the front or rear camera in portrait or landscape.
+- Replace a selected background color with an image or video.
+- Import photos or videos and add text, stickers and effects.
+
+Download: https://apps.apple.com/app/id1165505071
+
+Android: https://play.google.com/store/apps/details?id=com.appsfresh.greenscreen . Android features and release dates differ from iOS; check the Play listing.
+
+Free background kits: https://cromakit.greenscreenapp.us/ . Kits are app-agnostic; this does not mean app exports or premium tools are free.
+
+## Frequently asked questions
+
+### Do I need a green backdrop?
+
+Chroma key removes a selected color. An evenly lit solid-color backdrop works best; this is not a promise of AI subject removal in every environment.
+
+### Is everything free?
+
+No. The app is free to download and includes paid subscriptions and in-app purchases. Check the purchase screen for the features, local price, period and any trial terms.
+
+Privacy: https://yohann305.github.io/app-legal/greenscreen-ios/privacy.html
+Terms: https://yohann305.github.io/app-legal/greenscreen-ios/terms.html
+Support: https://yohann305.github.io/app-legal/greenscreen-ios/support.html
+
+# Video Teleprompter Pro
+
+Read your script close to the lens while recording video.
+
+For: Creators, educators and presenters using iPhone, iPad or Mac.
+
+- Scroll scripts while recording on iPhone or iPad.
+- Use voice-paced scrolling, script import, captions and remote controls.
+- Pro and Lifetime include Captions and Remote; Studio Yearly adds custom branding.
+
+Download: https://apps.apple.com/app/id1104659250
+
+## Frequently asked questions
+
+### What is free?
+
+The iOS prompter, editor and 1080p recording are free, with takes up to two minutes and a watermark. Pro unlocks additional features.
+
+### Is there a Mac app?
+
+Yes. See the App Store for platform requirements and the current Mac feature set. iOS-specific recording claims are not a promise of identical Mac functionality.
+
+Privacy: https://yohann305.github.io/app-legal/video-teleprompter-pro/privacy.html
+Terms: https://yohann305.github.io/app-legal/video-teleprompter-pro/terms.html
+Support: https://yohann305.github.io/app-legal/video-teleprompter-pro/support.html
+
+# Colorblind Eye Exam Test
+
+Color-vision screening and reports for iPhone and iPad.
+
+For: Individuals, clinics, schools and organizations that need screening records.
+
+- Take the free 14-plate Quick Screen in about two minutes.
+- Explore full plates, hue arrangement, ring tests and Color Assist.
+- Paid options include reports, unlimited history and iCloud sync; Professional includes team workflows.
+
+Download: https://apps.apple.com/app/id588145141
+
+## Frequently asked questions
+
+### Can this diagnose color blindness?
+
+No. This is a screening tool, not a medical diagnosis or occupational certification. Screen calibration and lighting affect results. An eye-care professional should evaluate concerns.
+
+### What sync is free?
+
+iCloud sync is free for one person and the ten latest results. Paid Pro and Professional plans include unlimited sync.
+
+Privacy: https://yohann305.github.io/app-legal/colorblind/privacy.html
+Terms: https://yohann305.github.io/app-legal/colorblind/terms.html
+Support: https://yohann305.github.io/app-legal/colorblind/support.html
+
+# Bachata Dance App
+
+Learn sensual bachata through instructor-led video lessons.
+
+For: Beginners and social dancers practising at their own pace.
+
+- Watch step-by-step lessons from instructors including Sofia and Kelvin.
+- Save moves as Favorite, Practicing or Learned.
+- Browse dance events; the app supports English, French and Spanish.
+
+Download: https://apps.apple.com/app/id1670758127
+
+## Frequently asked questions
+
+### What does Premium include?
+
+Premium unlocks every course and lesson. Weekly, monthly and annual plans are listed in the app.
+
+### Can I browse without an account?
+
+Yes. An account is optional for browsing.
+
+Privacy: https://yohann305.github.io/app-legal/bachata-ios/privacy.html
+Terms: https://yohann305.github.io/app-legal/bachata-ios/terms.html
+Support: https://yohann305.github.io/app-legal/bachata-ios/support.html
+Instructor agreement: https://yohann305.github.io/app-legal/bachata-ios/instructor.html
+
+# WordSearch Winners
+
+A word search with giant boards and rotating 3D puzzles.
+
+For: Word-puzzle players who enjoy daily challenges and large hunts.
+
+- Spin cube, globe and pyramid puzzles.
+- Explore All Words 2026 with 92,064 English words on one board.
+- Play daily and year challenges, with offline solo play and no ads.
+
+Download: https://apps.apple.com/app/id6813906334
+
+## Frequently asked questions
+
+### Can I buy a leaderboard rank?
+
+No. Hint spotlights reveal a word, but that word scores half. Ranks are not sold.
+
+### What purchases are offered?
+
+Winners Club, hint packs, themes and other optional packs. Check the app for current contents and prices.
+
+Privacy: https://yohann305.github.io/app-legal/wordsearch-winners/privacy.html
+Terms: https://yohann305.github.io/app-legal/wordsearch-winners/terms.html
+Support: https://yohann305.github.io/app-legal/wordsearch-winners/support.html
+
+# Word Guess Daily Brain Trainer
+
+Guess the daily word, keep a streak and practise vocabulary.
+
+For: Families and word lovers learning English, Spanish or French.
+
+- Guess words letter by letter across 48 kid-safe categories.
+- Earn Jokers, badges and Game Center achievements.
+- Play offline without ads, with VoiceOver and large-text support.
+
+Download: https://apps.apple.com/app/id600633777
+
+## Frequently asked questions
+
+### What is free?
+
+Six categories are free in each language.
+
+### What does Brain Trainer Plus add?
+
+All 48 categories, five daily Jokers and the daily archive. Monthly, yearly and Lifetime options are available; the listing describes a seven-day trial on the yearly plan.
+
+Privacy: https://yohann305.github.io/app-legal/wordguess/privacy.html
+Terms: https://yohann305.github.io/app-legal/wordguess/terms.html
+Support: https://yohann305.github.io/app-legal/wordguess/support.html

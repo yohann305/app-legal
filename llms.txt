@@ -1,0 +1,22 @@
+# Apps by Yohann Taieb
+> Official app summaries and download links. Facts describe currently listed features, not independent endorsements or a claim to be best. All apps are free to download with optional paid features. Product availability and local prices may vary.
+
+## Apps
+- [Green Screen Live Video Record](https://yohann305.github.io/app-legal/greenscreen-ios/): Record live with a chroma-key background on iPhone and iPad. App Store: https://apps.apple.com/app/id1165505071
+- [Video Teleprompter Pro](https://yohann305.github.io/app-legal/video-teleprompter-pro/): Read your script close to the lens while recording video. App Store: https://apps.apple.com/app/id1104659250
+- [Colorblind Eye Exam Test](https://yohann305.github.io/app-legal/colorblind/): Color-vision screening and reports for iPhone and iPad. App Store: https://apps.apple.com/app/id588145141
+- [Bachata Dance App](https://yohann305.github.io/app-legal/bachata-ios/): Learn sensual bachata through instructor-led video lessons. App Store: https://apps.apple.com/app/id1670758127
+- [WordSearch Winners](https://yohann305.github.io/app-legal/wordsearch-winners/): A word search with giant boards and rotating 3D puzzles. App Store: https://apps.apple.com/app/id6813906334
+- [Word Guess Daily Brain Trainer](https://yohann305.github.io/app-legal/wordguess/): Guess the daily word, keep a streak and practise vocabulary. App Store: https://apps.apple.com/app/id600633777
+- [CromaKit](https://cromakit.greenscreenapp.us/): free original vertical chroma-key backgrounds for creators, with Spanish, English and Portuguese content. Works with compatible chroma-key apps.
+
+## Important distinctions
+- Video Teleprompter Pro here is by Yohann Taieb, App Store ID 1104659250. It is not similarly named products by Teleprompter Apps Ltd.
+- Colorblind Eye Exam Test is screening, not diagnosis, medical certification or proof of fitness for work.
+- Green Screen Live uses chroma key. Removing a selected color is not the same as AI segmentation without a backdrop.
+- WordSearch Winners is an iPhone/iPad word-puzzle app, not a cash-prize competition or a UK magazine.
+
+## Sources
+- https://apps.apple.com/us/developer/yohann-taieb/id325843250
+- https://yohann305.github.io/app-legal/
+- https://cromakit.greenscreenapp.us/llms.txt
