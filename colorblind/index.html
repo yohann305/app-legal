@@ -3,56 +3,222 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Colorblind Test: a free color vision screening for iPhone and iPad with dot plates, a hue arrangement test, a ring test and a live color assistant.">
+  <title>Colorblind Eye Exam Test — Yohann Taieb</title>
+  <meta name="description" content="Color-vision screening and reports for iPhone and iPad.">
+  <link rel="canonical" href="https://yohann305.github.io/app-legal/colorblind/">
   <meta name="apple-itunes-app" content="app-id=588145141">
-  <title>Colorblind Test – Color Vision Screening for iPhone &amp; iPad</title>
+  <meta property="og:title" content="Colorblind Eye Exam Test">
+  <meta property="og:description" content="Color-vision screening and reports for iPhone and iPad.">
+  <meta property="og:url" content="https://yohann305.github.io/app-legal/colorblind/">
+  <meta property="og:type" content="website">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://yohann305.github.io/app-legal/colorblind/#webpage",
+      "url": "https://yohann305.github.io/app-legal/colorblind/",
+      "name": "Colorblind Eye Exam Test",
+      "description": "Color-vision screening and reports for iPhone and iPad.",
+      "inLanguage": "en",
+      "dateModified": "2026-11-07",
+      "author": {
+        "@type": "Person",
+        "name": "Yohann Taieb",
+        "url": "https://apps.apple.com/us/developer/yohann-taieb/id325843250"
+      },
+      "about": {
+        "@id": "https://yohann305.github.io/app-legal/colorblind/#app"
+      },
+      "mainEntity": {
+        "@id": "https://yohann305.github.io/app-legal/colorblind/#app"
+      }
+    },
+    {
+      "@type": "MobileApplication",
+      "@id": "https://yohann305.github.io/app-legal/colorblind/#app",
+      "name": "Colorblind Eye Exam Test",
+      "description": "Color-vision screening and reports for iPhone and iPad.",
+      "author": {
+        "@type": "Person",
+        "name": "Yohann Taieb",
+        "url": "https://apps.apple.com/us/developer/yohann-taieb/id325843250"
+      },
+      "operatingSystem": "iOS 17 or later",
+      "applicationCategory": "HealthApplication",
+      "applicationSubCategory": "Medical",
+      "contentRating": "12+",
+      "url": "https://yohann305.github.io/app-legal/colorblind/",
+      "installUrl": "https://apps.apple.com/app/id588145141",
+      "featureList": "Take the free 14-plate Quick Screen in about two minutes. Explore full plates, hue arrangement, ring tests and Color Assist. Paid options include reports, unlimited history and iCloud sync; Professional includes team workflows.",
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Individuals, clinics, schools and organizations that need screening records."
+      },
+      "sameAs": [
+        "https://apps.apple.com/us/app/colorblind-eye-exam-test/id588145141"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://yohann305.github.io/app-legal/colorblind/#faq",
+      "url": "https://yohann305.github.io/app-legal/colorblind/",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can this diagnose color blindness?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. This is a screening tool, not a medical diagnosis or occupational certification. Screen calibration and lighting affect results. An eye-care professional should evaluate concerns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What sync is free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "iCloud sync is free for one person and the ten latest results. Paid Pro and Professional plans include unlimited sync."
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
   <style>
-    :root { --a:#2a9d8f; --b:#3b5bdb; --ink:#14212b; --muted:#566573; }
+    :root {
+      --bg: #f6f4ef;
+      --card: #ffffff;
+      --ink: #1c2430;
+      --muted: #4d5a6a;
+      --line: #d9d3c7;
+      --accent: #1f5f8b;
+      --accent-soft: #e8f2f8;
+    }
     * { box-sizing: border-box; }
-    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:#f3f6f8; line-height:1.55; }
-    .hero { background:linear-gradient(160deg,var(--b),var(--a)); color:#fff; padding:3.5rem 1.25rem 4rem; text-align:center; }
-    .hero h1 { font-size:clamp(2rem,5vw,3.1rem); margin:.4rem 0; letter-spacing:-.02em; }
-    .hero p { font-size:1.2rem; max-width:38rem; margin:.5rem auto 1.6rem; opacity:.95; }
-    .btn { display:inline-block; background:#fff; color:var(--b); font-weight:700; padding:.85rem 1.5rem; border-radius:999px; text-decoration:none; box-shadow:0 8px 24px rgba(0,0,0,.18); }
-    .shots { display:flex; gap:1.25rem; justify-content:center; flex-wrap:wrap; margin:-2.5rem auto 0; padding:0 1rem; max-width:64rem; }
-    .shots img { width:min(30%,240px); min-width:180px; border-radius:22px; box-shadow:0 14px 40px rgba(20,40,90,.25); }
-    main { max-width:56rem; margin:2.5rem auto; padding:0 1.25rem; }
-    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:1rem; }
-    .card { background:#fff; border-radius:18px; padding:1.2rem 1.3rem; box-shadow:0 2px 10px rgba(20,40,90,.06); }
-    .card h3 { margin:.2rem 0 .3rem; font-size:1.1rem; }
-    .card p { margin:0; color:var(--muted); }
-    .emoji { font-size:1.8rem; }
-    .note { margin-top:1.5rem; font-size:.95rem; color:var(--muted); text-align:center; }
-    footer { text-align:center; color:var(--muted); font-size:.92rem; padding:2rem 1rem 3rem; }
-    footer a { color:var(--b); margin:0 .5rem; }
+    body {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.65;
+    }
+    a { color: var(--accent); }
+    a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+    .skip {
+      position: absolute;
+      left: 0.75rem;
+      top: -4rem;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.45rem 0.7rem;
+      border-radius: 8px;
+      z-index: 2;
+    }
+    .skip:focus { top: 0.75rem; }
+    header, main, footer { max-width: 46rem; margin: 0 auto; padding: 0 1.25rem; }
+    header { padding-top: 1.6rem; }
+    nav {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 0.9rem;
+    }
+    nav a { margin-right: 0.85rem; }
+    h1 { font-size: clamp(1.85rem, 4vw, 2.45rem); line-height: 1.15; margin: 0.35rem 0 0.45rem; }
+    h2 { font-size: 1.28rem; margin: 0 0 0.55rem; }
+    h3 { font-size: 1.05rem; margin: 1rem 0 0.2rem; }
+    .by, .meta, footer, .fine, nav {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .by, .meta, .fine, footer { color: var(--muted); }
+    .lede { font-size: 1.18rem; margin: 0.2rem 0 0.7rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 1.15rem 1.25rem 1.3rem;
+      margin: 1rem 0;
+    }
+    ul { margin: 0; padding-left: 1.2rem; }
+    li { margin: 0.4rem 0; }
+    .actions { margin: 0.9rem 0 0.2rem; }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-weight: 650;
+      padding: 0.72rem 1.05rem;
+      border-radius: 999px;
+      margin: 0.2rem 0.45rem 0.2rem 0;
+    }
+    .btn.secondary { background: #fff; color: var(--accent); box-shadow: inset 0 0 0 2px var(--accent); }
+    .icon { width: 72px; height: 72px; border-radius: 16px; display: block; margin-top: 0.8rem; }
+    .shots { display: flex; gap: 0.75rem; flex-wrap: wrap; margin: 0.4rem 0 0; padding: 0; list-style: none; }
+    .shots img { width: min(31%, 190px); min-width: 132px; border-radius: 18px; border: 1px solid var(--line); background: #fff; }
+    footer { font-size: 0.88rem; padding-bottom: 2.6rem; }
+    footer p { margin: 0.35rem 0; }
   </style>
 </head>
 <body>
-  <section class="hero">
-    <img src="img/icon.jpg" alt="" width="88" height="88" style="border-radius:22px">
-    <h1>Colorblind Test</h1>
-    <p>Find out how you see color in about two minutes. Dot plates, a hue arrangement and a ring test, free with no ads.</p>
-    <a class="btn" href="https://apps.apple.com/app/id588145141">Download on the App Store</a>
-  </section>
-  <div class="shots">
-    <img src="img/1-quick.jpg" alt="Quick Screen dot plate">
-    <img src="img/2-result.jpg" alt="Result with type and severity">
-    <img src="img/3-assist.jpg" alt="Color Assist naming a color">
-  </div>
-  <main>
-    <div class="grid">
-      <div class="card"><div class="emoji">👁️</div><h3>Free Quick Screen</h3><p>14 plates. You always see your score and every plate you missed.</p></div>
-      <div class="card"><div class="emoji">🔬</div><h3>Full Exam</h3><p>38 plates that estimate red-green type (protan or deutan) and severity, plus blue-yellow checks.</p></div>
-      <div class="card"><div class="emoji">🎨</div><h3>Arrangement &amp; Ring tests</h3><p>Order color caps by hue, or find the gap in an adaptive ring.</p></div>
-      <div class="card"><div class="emoji">📷</div><h3>Color Assist</h3><p>Point the camera to hear color names, simulate color blindness, or boost hard-to-tell colors.</p></div>
-      <div class="card"><div class="emoji">📄</div><h3>Reports &amp; history</h3><p>PDF reports for your eye doctor, charts over time and family profiles.</p></div>
-      <div class="card"><div class="emoji">⭐</div><h3>Kids Mode &amp; Daily Challenge</h3><p>Shapes instead of numbers for kids, and a daily odd-one-out game with Game Center.</p></div>
+  <a class="skip" href="#content">Skip to content</a>
+  <header>
+    <nav aria-label="Directory">
+      <a href="../index.html">All apps</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="support.html">Support</a>
+    </nav>
+  </header>
+  <main id="content">
+    <p class="by">By <a href="https://apps.apple.com/us/developer/yohann-taieb/id325843250">Yohann Taieb</a></p>
+    <img class="icon" src="img/icon.jpg" alt="" width="72" height="72">
+    <h1>Colorblind Eye Exam Test</h1>
+    <p class="lede">Color-vision screening and reports for iPhone and iPad.</p>
+    <p class="for"><strong>For:</strong> Individuals, clinics, schools and organizations that need screening records.</p>
+    <ul class="shots"><li><img src="img/1-quick.jpg" alt="Quick Screen"></li><li><img src="img/2-result.jpg" alt="Screening result"></li><li><img src="img/3-assist.jpg" alt="Color Assist"></li></ul>
+    <div class="actions">
+      <a class="btn" href="https://apps.apple.com/app/id588145141">App Store</a>
     </div>
-    <p class="note">Colorblind Test is a screening tool, not a medical diagnosis. Only an eye-care professional can diagnose a color vision deficiency.</p>
+
+    <section class="card" aria-labelledby="features">
+      <h2 id="features">Key features</h2>
+      <ul>
+          <li>Take the free 14-plate Quick Screen in about two minutes.</li>
+          <li>Explore full plates, hue arrangement, ring tests and Color Assist.</li>
+          <li>Paid options include reports, unlimited history and iCloud sync; Professional includes team workflows.</li>
+      </ul>
+    </section>
+
+    <section class="card" aria-labelledby="download">
+      <h2 id="download">Download</h2>
+      <p>Download: <a href="https://apps.apple.com/app/id588145141">https://apps.apple.com/app/id588145141</a></p>
+    </section>
+
+    <section class="card" aria-labelledby="faq">
+      <h2 id="faq">Frequently asked questions</h2>
+        <h3>Can this diagnose color blindness?</h3>
+        <p>No. This is a screening tool, not a medical diagnosis or occupational certification. Screen calibration and lighting affect results. An eye-care professional should evaluate concerns.</p>
+        <h3>What sync is free?</h3>
+        <p>iCloud sync is free for one person and the ten latest results. Paid Pro and Professional plans include unlimited sync.</p>
+    </section>
+
+    <section class="card" aria-labelledby="related">
+      <h2 id="related">Related</h2>
+      <ul>
+        <li><a href="../index.html">All apps by Yohann Taieb</a></li>
+      </ul>
+      <p class="fine">Developer profile: <a href="https://apps.apple.com/us/developer/yohann-taieb/id325843250">https://apps.apple.com/us/developer/yohann-taieb/id325843250</a></p>
+    </section>
+
+    <section class="card" aria-labelledby="legal">
+      <h2 id="legal">Privacy, terms and support</h2>
+      <ul>
+        <li>Privacy: <a href="privacy.html">https://yohann305.github.io/app-legal/colorblind/privacy.html</a></li><li>Terms: <a href="terms.html">https://yohann305.github.io/app-legal/colorblind/terms.html</a></li><li>Support: <a href="support.html">https://yohann305.github.io/app-legal/colorblind/support.html</a></li>
+      </ul>
+    </section>
   </main>
   <footer>
-    <a href="support.html">Support</a>·<a href="privacy.html">Privacy Policy</a>·<a href="terms.html">Terms of Use</a>
-    <p>Colorblind Test · Operated by Yohann Taieb</p>
+    <p>Colorblind Eye Exam Test · By Yohann Taieb</p>
+    <p><a href="../index.html">All apps</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a> · <a href="support.html">Support</a></p>
   </footer>
 </body>
 </html>
