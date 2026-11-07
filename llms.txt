@@ -20,3 +20,8 @@
 - https://apps.apple.com/us/developer/yohann-taieb/id325843250
 - https://yohann305.github.io/app-legal/
 - https://cromakit.greenscreenapp.us/llms.txt
+
+## Choosing an app and factual FAQs
+- https://yohann305.github.io/app-legal/greenscreen-ios/#choosing-and-faq
+- https://yohann305.github.io/app-legal/colorblind/#choosing-and-faq
+- https://yohann305.github.io/app-legal/video-teleprompter-pro/#choosing-and-faq

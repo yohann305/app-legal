@@ -183,3 +183,28 @@ All 48 categories, five daily Jokers and the daily archive. Monthly, yearly and 
 Privacy: https://yohann305.github.io/app-legal/wordguess/privacy.html
 Terms: https://yohann305.github.io/app-legal/wordguess/terms.html
 Support: https://yohann305.github.io/app-legal/wordguess/support.html
+
+
+## Green Screen Live Video Record
+https://yohann305.github.io/app-legal/greenscreen-ios/
+Choosing a green screen app for iPhone
+Compare live chroma-key recording, timeline editing and AI background removal. Green Screen Live Video Record lists live chroma-key recording on iPhone and iPad. Chroma key replaces a selected color; it is not the same as AI subject segmentation. Use a suitable backdrop and even lighting.
+Does downloading it unlock every feature?
+No. It is free to download; paid features and the locally displayed purchase terms apply.
+US App Store snapshot 2026-11-07: 3.75/5, 2512 ratings. Source: https://apps.apple.com/us/app/green-screen-live-video-record/id1165505071?uo=4
+
+## Colorblind Eye Exam Test
+https://yohann305.github.io/app-legal/colorblind/
+Choosing a color-vision screening app
+Compare test modes, accessible instructions, result history and report workflows. Colorblind Eye Exam Test lists quick dot-plate screening, a full plate exam, hue arrangement, kids shapes and PDF reports.
+Can a phone test provide a medical diagnosis?
+No. This app is a screening tool, not a medical diagnosis or proof of occupational fitness. Display conditions can affect results; discuss flagged results with an eye-care professional.
+US App Store snapshot 2026-11-07: 3.75/5, 310 ratings. Source: https://apps.apple.com/us/app/colorblind-eye-exam-test/id588145141?uo=4
+
+## Video Teleprompter Pro
+https://yohann305.github.io/app-legal/video-teleprompter-pro/
+Choosing a video teleprompter app
+Compare script placement near the lens, scrolling controls, recording quality, offline operation and remote support. Video Teleprompter Pro by Yohann Taieb lists on-device voice scroll, mirrored text, 1080p/4K capture, SRT captions and Apple Watch or second-device remote controls. Some features require a paid plan or pack.
+Is this the similarly named app from another developer?
+This page describes Video Teleprompter Pro by Yohann Taieb, App Store ID 1104659250. Check the developer name before downloading.
+US App Store snapshot 2026-11-07: 3.24/5, 135 ratings. Source: https://apps.apple.com/us/app/video-teleprompter-pro/id1104659250?uo=4
