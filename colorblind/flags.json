@@ -1,0 +1,8 @@
+{
+  "kill_switch" : false,
+  "min_supported_version" : "0.0",
+  "paywall_timing" : "current",
+  "paywall_variant" : "control",
+  "review_prompt_trigger" : "second_screening",
+  "show_lifetime" : true
+}
