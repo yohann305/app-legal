@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "killSwitch": false,
+  "launchPaywall": {
+    "enabled": true,
+    "closeButtonDelay": 2,
+    "showAfterOnboardingStep": null,
+    "showAfterLaunchNumber": 1
+  },
+  "paywallVariant": "control",
+  "showLifetimeOption": true,
+  "compliance": {
+    "closeButtonVisible": true,
+    "showBilledPrice": true,
+    "showTerms": true,
+    "showRestore": true
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "minSuccessfulRecordings": 2
+  }
+}
