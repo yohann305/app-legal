@@ -25,6 +25,7 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/video-teleprompter-pro/privacy.html
 - https://yohann305.github.io/app-legal/video-teleprompter-pro/terms.html
 - https://yohann305.github.io/app-legal/video-teleprompter-pro/support.html
+- https://yohann305.github.io/app-legal/video-teleprompter-pro/privacy-android.html
 
 ## Colorblind Eye Exam Test
 
