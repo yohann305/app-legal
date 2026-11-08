@@ -1,0 +1,12 @@
+{
+  "paywall_variant": "control",
+  "paywall_timing": "after_first_scene",
+  "paywall_session_threshold": 3,
+  "trial_days_display": 7,
+  "show_lifetime": true,
+  "onboarding_order": ["welcome", "corners", "visual", "wow"],
+  "review_prompt_trigger_seconds": 10,
+  "kill_switch": false,
+  "maintenance_message": "Projml is paused for maintenance. Your projects stay on this device.",
+  "min_supported_version": "0.1"
+}
