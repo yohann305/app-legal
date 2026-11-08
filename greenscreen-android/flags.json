@@ -1,0 +1,7 @@
+{
+  "launch_paywall": "every_launch",
+  "close_button_delay_ms": 0,
+  "paywall_variant": "control",
+  "kill_switch": false,
+  "min_supported_version": 0
+}
