@@ -18,6 +18,9 @@ GitHub Pages site for this repository (`main` branch, site root `/`):
 - https://yohann305.github.io/app-legal/greenscreen-ios/privacy.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/terms.html
 - https://yohann305.github.io/app-legal/greenscreen-ios/support.html
+- https://yohann305.github.io/app-legal/greenscreen-android/
+- https://yohann305.github.io/app-legal/greenscreen-android/privacy.html
+- https://yohann305.github.io/app-legal/greenscreen-android/terms.html
 
 ## Video Teleprompter Pro
 
