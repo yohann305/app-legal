@@ -18,5 +18,7 @@
   "reviewPrompt": {
     "enabled": true,
     "minSuccessfulRecordings": 2
-  }
+  },
+  "post_close_offer": true,
+  "post_close_offer_cooldown_days": 3
 }
