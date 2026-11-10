@@ -20,5 +20,8 @@
     "minSuccessfulRecordings": 2
   },
   "post_close_offer": true,
-  "post_close_offer_cooldown_days": 3
+  "post_close_offer_cooldown_days": 3,
+  "review_prompt_trigger": "second_win",
+  "review_min_days": 2,
+  "review_min_wins": 2
 }
