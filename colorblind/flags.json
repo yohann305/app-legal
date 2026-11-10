@@ -6,5 +6,6 @@
   "review_prompt_trigger": "second_screening",
   "show_lifetime": true,
   "post_close_offer": true,
-  "post_close_offer_cooldown_days": 3
+  "post_close_offer_cooldown_days": 3,
+  "review_min_days": 2
 }
