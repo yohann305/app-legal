@@ -6,5 +6,8 @@
   "kill_switch": false,
   "min_supported_version": "1.0",
   "post_close_offer": true,
-  "post_close_offer_cooldown_days": 3
+  "post_close_offer_cooldown_days": 3,
+  "review_prompt_trigger": "third_win",
+  "review_min_days": 2,
+  "review_min_wins": 3
 }
