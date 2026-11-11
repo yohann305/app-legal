@@ -1,11 +1,10 @@
 {
   "kill_switch": false,
   "min_supported_version": "0.0",
+  "paywall_variant": "plans_first",
   "paywall_timing": "current",
-  "paywall_variant": "control",
-  "review_prompt_trigger": "second_screening",
   "show_lifetime": true,
-  "post_close_offer": true,
-  "post_close_offer_cooldown_days": 3,
-  "review_min_days": 2
+  "review_prompt_trigger": "third_screening",
+  "experiment": "growth_sprint_2026_11",
+  "notes": "Free self-hosted flags on api.greenscreenapp.us/colorblind/. Flip paywall_variant between control and plans_first; paywall_timing between current, every_screening, off."
 }
