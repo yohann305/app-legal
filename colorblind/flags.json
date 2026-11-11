@@ -4,7 +4,11 @@
   "paywall_variant": "plans_first",
   "paywall_timing": "current",
   "show_lifetime": true,
+  "show_monthly": true,
+  "default_plan": "yearly",
+  "paywall_skip_atypical": true,
+  "post_close_offer": true,
+  "post_close_offer_cooldown_days": 3,
   "review_prompt_trigger": "third_screening",
-  "experiment": "growth_sprint_2026_11",
-  "notes": "Free self-hosted flags on api.greenscreenapp.us/colorblind/. Flip paywall_variant between control and plans_first; paywall_timing between current, every_screening, off."
+  "experiment": "growth_sprint_2026_11"
 }
