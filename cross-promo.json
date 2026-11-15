@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-14",
+  "apps": [
+    {"id": "greenscreen", "name": "Green Screen Live", "app_store_id": "1165505071", "play_package": "com.appsfresh.greenscreen", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/greenscreen.jpg", "tagline": "Swap your background live while you record."},
+    {"id": "teleprompter", "name": "Video Teleprompter Pro", "app_store_id": "1104659250", "play_package": "com.appfresh.videoteleprompterpro", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/teleprompter.jpg", "tagline": "Read your script on screen while you film."},
+    {"id": "colorblind", "name": "Colorblind Test", "app_store_id": "588145141", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/colorblind.jpg", "tagline": "Quick color vision screening tests."},
+    {"id": "bachata", "name": "Bachata Dance App", "app_store_id": "1670758127", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/bachata.jpg", "tagline": "Learn bachata step by step with video lessons."},
+    {"id": "wordsearch", "name": "WordSearch Winners", "app_store_id": "6813906334", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/wordsearch.jpg", "tagline": "Find words on giant boards and 3D puzzles."},
+    {"id": "wordguess", "name": "Word Guess Daily", "app_store_id": "600633777", "icon": "https://yohann305.github.io/app-legal/cross-promo/icons/wordguess.jpg", "tagline": "Guess the daily word and keep your streak."}
+  ],
+  "hosts": {
+    "greenscreen-ios": {"cross_promo_enabled": true, "winback_enabled": true, "winback_cooldown_days": 14, "winback_max_shows": 4, "winback_min_days_lapsed": 1},
+    "greenscreen-android": {"cross_promo_enabled": true, "winback_enabled": true, "winback_cooldown_days": 14, "winback_max_shows": 4, "winback_min_days_lapsed": 1},
+    "teleprompter-ios": {"cross_promo_enabled": true, "winback_enabled": true, "winback_cooldown_days": 14, "winback_max_shows": 4, "winback_min_days_lapsed": 1},
+    "colorblind-ios": {"cross_promo_enabled": true, "winback_enabled": true, "winback_cooldown_days": 14, "winback_max_shows": 4, "winback_min_days_lapsed": 1},
+    "bachata-ios": {"cross_promo_enabled": true, "winback_enabled": true, "winback_cooldown_days": 14, "winback_max_shows": 4, "winback_min_days_lapsed": 1}
+  }
+}
